@@ -32,7 +32,10 @@ body{
 }
 
 footer{
+    background-color: #084B8A;
+    color: #ffffff;
     position: fixed;
+    margin-top: 90%;
     margin-bottom:10%;
     text-align:right;
 }

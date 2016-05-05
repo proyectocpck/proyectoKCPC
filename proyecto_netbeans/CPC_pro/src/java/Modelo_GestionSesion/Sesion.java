@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package GestionUsuarios;
+package Modelo_GestionSesion;
 
 /**
  *
  * @author HARLIN
  */
-public class GestionUsuarios {
+public class Sesion {
     
 }

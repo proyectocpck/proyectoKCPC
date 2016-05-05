@@ -3,6 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+/*
+SE DEBE CAMBIAR LA CONEXION A UN METODO MAS SEGURO
+*/
+
+
 package Controlador;
 
 import java.sql.Connection;

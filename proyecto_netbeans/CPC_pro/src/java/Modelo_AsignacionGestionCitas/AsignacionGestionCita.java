@@ -15,7 +15,8 @@ import java.util.List;
  * jhon chaparro
  *              
  */
-public class CreacionCita {
+public class AsignacionGestionCita
+{
     private String Usuario;
     private String Contraseña;
     private String Fecha_Creacion_cita;
@@ -33,7 +34,7 @@ public class CreacionCita {
 
     //constructor
     
-    public CreacionCita(String Usuario, String Contraseña, String Fecha_Creacion_cita, String Hora, List CargarDatosP, String Nombre, String Apellido, String Fecha_nacimiento, int N_identificacion, String Email, String Direccion, String Telefono) {
+    public AsignacionGestionCita(String Usuario, String Contraseña, String Fecha_Creacion_cita, String Hora, List CargarDatosP, String Nombre, String Apellido, String Fecha_nacimiento, int N_identificacion, String Email, String Direccion, String Telefono) {
         this.Usuario = Usuario;  
         this.Contraseña = Contraseña;
         this.Fecha_Creacion_cita = Fecha_Creacion_cita;

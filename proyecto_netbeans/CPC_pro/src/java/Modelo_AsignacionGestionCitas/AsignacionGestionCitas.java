@@ -143,10 +143,4 @@ public class CreacionCita {
     public void setTelefono(String Telefono) {
         this.Telefono = Telefono;
     }
-               
-    
-    
-     
-    
-    
 }
